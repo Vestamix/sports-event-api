@@ -1,10 +1,10 @@
 # Sport Events CRUD REST API
 
-![Java](https://img.shields.io/badge/Java-11-blue)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
+![Java](https://img.shields.io/badge/Java-21-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.6-brightgreen)
 ![H2 Database](https://img.shields.io/badge/H2%20Database-in--memory-orange)
-![JUnit](https://img.shields.io/badge/JUnit-5.7.2-yellow)
-![Lombok]
+![JUnit](https://img.shields.io/badge/JUnit-5-yellow)
+![Lombok](https://img.shields.io/badge/Lombok-grey)
 
 A CRUD REST API for managing sport events, built with Java and Spring Boot. This project demonstrates fundamental concepts of building RESTful APIs, including entity management, validation and exception handling.
 
