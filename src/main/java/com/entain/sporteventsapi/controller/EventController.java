@@ -1,13 +1,8 @@
 package com.entain.sporteventsapi.controller;
 
 import com.entain.sporteventsapi.dto.EventDTO;
-import com.entain.sporteventsapi.entity.EventStatus;
-import com.entain.sporteventsapi.service.EventException;
-import com.entain.sporteventsapi.service.EventNotFoundException;
 import com.entain.sporteventsapi.service.EventService;
-import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

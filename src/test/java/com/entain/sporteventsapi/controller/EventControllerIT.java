@@ -4,7 +4,6 @@ import com.entain.sporteventsapi.dto.EventDTO;
 import com.entain.sporteventsapi.entity.EventStatus;
 import com.entain.sporteventsapi.entity.Sport;
 import com.entain.sporteventsapi.repository.EventRepository;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.AfterEach;
